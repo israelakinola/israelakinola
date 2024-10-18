@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Israel A
 
-<!--
-**israelakinola/israelakinola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an aspiring business and system analyst with a solid foundation in programming, web development, and administration. I'm passionate about using data to understand business problems and leveraging insights to create solutions. With hands-on experience in databases, programming, and problem-solving, I aim to make a transition into a data-driven role where I can use my skills to contribute to organizational success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Core Languages & Tools
+
+- SQL
+- Python
+- C++
+- Power BI / Excel
+
+---
+
+## 🚀 Projects
+
+### Python Projects
+- [**Photo-Share **](https://github.com/israelakinola/Photo-Share): Used Python library Django to a photo-sharing website where registered users can share 'Photos' and view a listing of other users' shared photos.
+
+### SQL Projects
+
+### C++ Projects
+- **Seneca Libary System:** 
+
+
+---
+
+
+
+📫 You can reach me at israelakinola@hotmail.com or connect with me on (https://www.linkedin.com/in/israelakinola/)
+
