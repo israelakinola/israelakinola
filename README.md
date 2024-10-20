@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Israel A
 
 ### About Me
-
-I am an aspiring business and system analyst with a solid foundation in programming, web development, and administration. I'm passionate about using data to understand business problems and leveraging insights to create solutions. With hands-on experience in databases, programming, and problem-solving, I aim to make a transition into a data-driven role where I can use my skills to contribute to organizational success.
+I am an aspiring business analyst with a strong foundation in computer programming, web development and operation administration. I seek to leverage my analytical, technical and problem-solving skills to solve business problems.
 
 ### 🛠️ Core Languages & Tools
 
